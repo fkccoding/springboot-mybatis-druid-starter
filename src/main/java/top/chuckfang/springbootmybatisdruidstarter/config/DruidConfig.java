@@ -11,6 +11,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * @author https://www.chuckfang.top
  * @date Created on 2019-07-21 21:23
+ * 访问 http://localhost:8080/druid/
  */
 @Configuration
 @MapperScan("top.chuckfang.springbootmybatisdruidstarter.mapper")
